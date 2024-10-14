@@ -1,0 +1,304 @@
+{
+  "format": "scripture burrito",
+  "meta": {
+    "version": "1.0.0",
+    "category": "source",
+    "generator": {
+      "softwareName": "Aquifer Git Exporter",
+      "softwareVersion": "0.0.1"
+    },
+    "defaultLocale": "en",
+    "dateCreated": "2024-08-08T17:39:50+02:00",
+    "normalization": "NFC"
+  },
+  "idAuthorities": {
+    "scribe": {
+      "id": "http://www.scribe.bible",
+      "name": {
+        "en": "Scribe application"
+      }
+    },
+    "aquifer": {
+      "id": "http://aquifer.bible",
+      "name": {
+        "en": "Bible Aquifer"
+      }
+    }
+  },
+  "identification": {
+    "primary": {
+      "github": {
+        "5de8d336-bdfb-552c-9da7-becb8eb182d8": {
+          "revision": "1",
+          "timestamp": "2024-08-08T17:39:50+02:00"
+        }
+      }
+    },
+    "name": {
+      "en": "UBS Image Links",
+      "fr": "Liens pour Images UBS"
+    },
+    "abbreviation": {
+      "en": "UBSI"
+    }
+  },
+  "confidential": false,
+  "languages": [
+    {
+      "tag": "fr",
+      "name": {
+        "en": "English"
+      },
+      "scriptDirection": "ltr"
+    }
+  ],
+  "type": {
+    "flavorType": {
+      "name": "parascriptural",
+      "flavor": {
+        "name": "x-resourcelinks"
+      },
+      "currentScope": {
+        "GEN": [],
+        "EXO": [],
+        "NUM": [],
+        "JOB": [],
+        "MAT": [],
+        "MRK": [],
+        "LUK": [],
+        "JHN": [],
+        "ACT": [],
+        "EPH": []
+      }
+    }
+  },
+  "copyright": {
+    "licenses": [
+      {
+        "ingredient": "license.md"
+      }
+    ]
+  },
+  "localizedNames": {
+    "book-gen": {
+      "abbr": {
+        "en": "Gn"
+      },
+      "short": {
+        "en": "Genesis"
+      },
+      "long": {
+        "en": "Genesis"
+      }
+    },
+    "book-exo": {
+      "abbr": {
+        "en": "Ex"
+      },
+      "short": {
+        "en": "Exodus"
+      },
+      "long": {
+        "en": "Exodus"
+      }
+    },
+    "book-num": {
+      "abbr": {
+        "en": "Nu"
+      },
+      "short": {
+        "en": "Numbers"
+      },
+      "long": {
+        "en": "Numbers"
+      }
+    },
+    "book-job": {
+      "abbr": {
+        "en": "Job"
+      },
+      "short": {
+        "en": "Job"
+      },
+      "long": {
+        "en": "The Book of Job"
+      }
+    },
+    "book-mat": {
+      "short": {
+        "en": "Matthew"
+      },
+      "abbr": {
+        "en": "Matthew"
+      },
+      "long": {
+        "en": "The Good News According to Matthew"
+      }
+    },
+    "book-mrk": {
+      "short": {
+        "en": "Mark"
+      },
+      "abbr": {
+        "en": "Mark"
+      },
+      "long": {
+        "en": "The Good News According to Mark"
+      }
+    },
+    "book-luk": {
+      "short": {
+        "en": "Luke"
+      },
+      "abbr": {
+        "en": "Luke"
+      },
+      "long": {
+        "en": "The Good News According to Luke"
+      }
+    },
+    "book-jhn": {
+      "short": {
+        "en": "John"
+      },
+      "abbr": {
+        "en": "John"
+      },
+      "long": {
+        "en": "The Good News According to John"
+      }
+    },
+    "book-act": {
+      "short": {
+        "en": "Acts"
+      },
+      "abbr": {
+        "en": "Acts"
+      },
+      "long": {
+        "en": "The Acts of the Apostles"
+      }
+    },
+    "book-eph": {
+      "short": {
+        "en": "Ephesians"
+      },
+      "abbr": {
+        "en": "Ephesians"
+      },
+      "long": {
+        "en": "Paul’s Letter to the Ephesians"
+      }
+    }
+  },
+  "ingredients": {
+    "ACT.tsv": {
+      "checksum": {
+        "md5": "81c749d5b3797f28676a5770a5f4de3f"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 69619,
+      "scope": {
+        "ACT": []
+      }
+    },
+    "EPH.tsv": {
+      "checksum": {
+        "md5": "db3b16eac59f9e3d8b3f73dc7be45121"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 2393,
+      "scope": {
+        "EPH": []
+      }
+    },
+    "EXO.tsv": {
+      "checksum": {
+        "md5": "2c0626c6e7b903398725bbac2994eecd"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 192591,
+      "scope": {
+        "EXO": []
+      }
+    },
+    "GEN.tsv": {
+      "checksum": {
+        "md5": "63608bbdaf0130c788ef4f74feeb7ce7"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 350582,
+      "scope": {
+        "GEN": []
+      }
+    },
+    "JHN.tsv": {
+      "checksum": {
+        "md5": "d44a99d33e1d176ced1edfee64261d0b"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 80130,
+      "scope": {
+        "JHN": []
+      }
+    },
+    "JOB.tsv": {
+      "checksum": {
+        "md5": "39a0244c1c7343e44882b9565797eed6"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 984,
+      "scope": {
+        "JOB": []
+      }
+    },
+    "LICENSE.md": {
+      "checksum": {
+        "md5": "3c2f848e6aaf41409b90e2b9198550da"
+      },
+      "mimeType": "text/markdown",
+      "size": 1309,
+      "scope": {}
+    },
+    "LUK.tsv": {
+      "checksum": {
+        "md5": "6ecda3f1eef1357ebb12c119aaa14415"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 246622,
+      "scope": {
+        "LUK": []
+      }
+    },
+    "MAT.tsv": {
+      "checksum": {
+        "md5": "ed80c6984cbdadb3cd3f229208621dfa"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 187910,
+      "scope": {
+        "MAT": []
+      }
+    },
+    "MRK.tsv": {
+      "checksum": {
+        "md5": "c00f474a842382728b89e71fcfa2698f"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 148805,
+      "scope": {
+        "MRK": []
+      }
+    },
+    "NUM.tsv": {
+      "checksum": {
+        "md5": "333cb67319de678453c094cb03248bb9"
+      },
+      "mimeType": "text/tab-separated-values",
+      "size": 47683,
+      "scope": {
+        "NUM": []
+      }
+    }
+  }
+}
