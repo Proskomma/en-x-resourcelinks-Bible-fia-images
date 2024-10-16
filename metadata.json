@@ -35,11 +35,11 @@
       }
     },
     "name": {
-      "en": "UBS Image Links",
-      "fr": "Liens pour Images UBS"
+      "en": "FIA Images",
+      "fr": "Images FIA"
     },
     "abbreviation": {
-      "en": "UBSI"
+      "en": "FIAI"
     }
   },
   "confidential": false,
