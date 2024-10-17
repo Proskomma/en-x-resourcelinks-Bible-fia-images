@@ -192,113 +192,114 @@
     }
   },
   "ingredients": {
-    "ACT.tsv": {
-      "checksum": {
-        "md5": "81c749d5b3797f28676a5770a5f4de3f"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 69619,
-      "scope": {
-        "ACT": []
-      }
+  "ACT.tsv": {
+    "checksum": {
+      "md5": "80ceb81c469ac8ee0dbc57ef82e7d72c"
     },
-    "EPH.tsv": {
-      "checksum": {
-        "md5": "db3b16eac59f9e3d8b3f73dc7be45121"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 2393,
-      "scope": {
-        "EPH": []
-      }
-    },
-    "EXO.tsv": {
-      "checksum": {
-        "md5": "2c0626c6e7b903398725bbac2994eecd"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 192591,
-      "scope": {
-        "EXO": []
-      }
-    },
-    "GEN.tsv": {
-      "checksum": {
-        "md5": "63608bbdaf0130c788ef4f74feeb7ce7"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 350582,
-      "scope": {
-        "GEN": []
-      }
-    },
-    "JHN.tsv": {
-      "checksum": {
-        "md5": "d44a99d33e1d176ced1edfee64261d0b"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 80130,
-      "scope": {
-        "JHN": []
-      }
-    },
-    "JOB.tsv": {
-      "checksum": {
-        "md5": "39a0244c1c7343e44882b9565797eed6"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 984,
-      "scope": {
-        "JOB": []
-      }
-    },
-    "LICENSE.md": {
-      "checksum": {
-        "md5": "3c2f848e6aaf41409b90e2b9198550da"
-      },
-      "mimeType": "text/markdown",
-      "size": 1309,
-      "scope": {}
-    },
-    "LUK.tsv": {
-      "checksum": {
-        "md5": "6ecda3f1eef1357ebb12c119aaa14415"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 246622,
-      "scope": {
-        "LUK": []
-      }
-    },
-    "MAT.tsv": {
-      "checksum": {
-        "md5": "ed80c6984cbdadb3cd3f229208621dfa"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 187910,
-      "scope": {
-        "MAT": []
-      }
-    },
-    "MRK.tsv": {
-      "checksum": {
-        "md5": "c00f474a842382728b89e71fcfa2698f"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 148805,
-      "scope": {
-        "MRK": []
-      }
-    },
-    "NUM.tsv": {
-      "checksum": {
-        "md5": "333cb67319de678453c094cb03248bb9"
-      },
-      "mimeType": "text/tab-separated-values",
-      "size": 47683,
-      "scope": {
-        "NUM": []
-      }
+    "mimeType": "text/tab-separated-values",
+    "size": 87990,
+    "scope": {
+      "ACT": []
     }
+  },
+  "EPH.tsv": {
+    "checksum": {
+      "md5": "78dd30b1775de58ee34db1d0ca573095"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 2501,
+    "scope": {
+      "EPH": []
+    }
+  },
+  "EXO.tsv": {
+    "checksum": {
+      "md5": "54c9161427fcb6f766e19e43805f6d8b"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 239341,
+    "scope": {
+      "EXO": []
+    }
+  },
+  "GEN.tsv": {
+    "checksum": {
+      "md5": "a27142c1f46e3a3be60e19a6e032a550"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 411387,
+    "scope": {
+      "GEN": []
+    }
+  },
+  "JHN.tsv": {
+    "checksum": {
+      "md5": "93e03b0e2fd4d3233a58dc1691552efb"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 100129,
+    "scope": {
+      "JHN": []
+    }
+  },
+  "JOB.tsv": {
+    "checksum": {
+      "md5": "445d5a3fa3ae70ebaca4e5b3a5b5deb8"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 1026,
+    "scope": {
+      "JOB": []
+    }
+  },
+  "LICENSE.md": {
+    "checksum": {
+      "md5": "3c2f848e6aaf41409b90e2b9198550da"
+    },
+    "mimeType": "text/markdown",
+    "size": 1309,
+    "scope": {}
+  },
+  "LUK.tsv": {
+    "checksum": {
+      "md5": "bb6a5d890918db9faf835d4343d3ee4a"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 277087,
+    "scope": {
+      "LUK": []
+    }
+  },
+  "MAT.tsv": {
+    "checksum": {
+      "md5": "65b01ac1474c7654771fb84984ea9119"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 227029,
+    "scope": {
+      "MAT": []
+    }
+  },
+  "MRK.tsv": {
+    "checksum": {
+      "md5": "f39331c7b4e7240a3663ea8318b5bad2"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 181587,
+    "scope": {
+      "MRK": []
+    }
+  },
+  "NUM.tsv": {
+    "checksum": {
+      "md5": "07ac17c6e16e36a54736b25651ca1b8b"
+    },
+    "mimeType": "text/tab-separated-values",
+    "size": 56196,
+    "scope": {
+      "NUM": []
+    }
+  }
+
   }
 }
